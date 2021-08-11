@@ -1,0 +1,1 @@
+ detauils of samuel
