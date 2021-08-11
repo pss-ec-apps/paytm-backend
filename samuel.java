@@ -1,1 +1,3 @@
- detauils of samuel
+ 
+added this to development branch
+detauils of samuel
